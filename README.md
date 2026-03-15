@@ -13,6 +13,6 @@ A 17/yo Developer that learnt python and lua from a very young age
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 0px;">
-  <img src="https://streak-stats.demolab.com?user=ImKushy&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKushy&layout=compact&theme=transparent&hide_border=true&card_width=400" />
+  <img src="https://streak-stats.demolab.com?user=AlexAgian&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAgian&layout=compact&theme=transparent&hide_border=true&card_width=400" />
 </div>
