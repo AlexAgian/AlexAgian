@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm Alex
-A 17/yo Developer that learnt python and lua from a very young age
-
+A 17-year-old software developer with early expertise in Python, Lua, HTML, CSS, JavaScript, and TypeScript.
 
 ---
 
